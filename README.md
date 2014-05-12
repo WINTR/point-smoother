@@ -31,7 +31,7 @@ options =
   # Number of bezier segments to draw from
   segments: 15
 
-new PointSmoother(context, points, options )
+new PointSmoother(context, points, options)
 ```
 
 
